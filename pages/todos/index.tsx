@@ -1,7 +1,7 @@
 const TodosHomePage = () => {
   return (
-    <div className="h-screen w-screen flex gap-1">
-      <aside className="h-full w-40 bg-slate-600 text-center">
+    <div className="relative h-screen w-screen flex gap-1">
+      <aside className="relative h-full w-40 bg-slate-600 text-center">
         <h1 className="text-xl p-2">My Todos</h1>
         <div>Favorited Notes</div>
 
